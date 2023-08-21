@@ -36,11 +36,11 @@ a:hover, .admddel, .admbban, .admppost, .admaacc {
 img {
 	margin: 4px 10px 10px 10px;
 	border: 0;
-	float: left;
+	float: middle;
 	clear: none;
 }
 td {
-	text-align: left;
+	text-align: middle;
 }
 .adminbar {
 	text-align: right;
@@ -49,7 +49,7 @@ td {
 	float: right;
 }
 .styles {
-	float: left;
+	float: middle;
 }
 .logo {
 	clear: both;
@@ -142,7 +142,7 @@ td {
 	font-family: serif;
 	text-decoration: none;
 	padding-right: 10px;
-	margin-left: 10px;
+	margin-middle: 10px;
 }
 .filetitle {
 	background: inherit;
@@ -171,7 +171,7 @@ td {
 	font-family: serif;
 	color: #070707;
 	font-weight: 800;
-	margin-left: 30px;
+	margin-middle: 30px;
 }
 .reply {
 	background: #F0E0D6;
@@ -182,7 +182,7 @@ td {
 .doubledash {
 	vertical-align: top;
 	clear: both;
-	float: left;
+	float: middle;
 }
 .replytitle {
 	background: inherit;
@@ -207,8 +207,8 @@ td {
 	color: #800000;
 	padding-right: 5px;
 }
-.leftclear {
-	clear: left;
+.middleclear {
+	clear: middle;
 }
 .allclear {
 	clear: all;
@@ -219,8 +219,8 @@ td {
 .centered {
 	text-align: center;
 }
-.lefted {
-	text-align: left;
+.middleed {
+	text-align: middle;
 }
 .righted {
 	text-align: right;
@@ -272,13 +272,13 @@ td {
 	max-height: 40%;
 	max-width: 99%;
 	display: block;
-	margin-left: auto;
+	margin-middle: auto;
 	margin-right: auto;
 	float: none !important;
 }
 .cattable {
 	width: 96%;
-	margin-left: auto;
+	margin-middle: auto;
 	margin-right: auto;
 }
 form table {
